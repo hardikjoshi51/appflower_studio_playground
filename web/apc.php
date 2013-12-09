@@ -21,6 +21,9 @@
    All other licensing and usage conditions are those of the PHP Group.
 
  */
+ 
+ 
+ // Nothing. Just useless comment.
 
 $VERSION='$Id: apc.php,v 3.61 2006/08/11 01:10:28 rasmus Exp $';
 
